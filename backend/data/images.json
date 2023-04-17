@@ -1,0 +1,23 @@
+[
+  {
+      "id": 1,
+      "url": "/cat1.jpeg",
+      "title": "Fur",
+      "uploadDate": "2022. 11. 12.",
+      "phName": "Cat lover"
+  },
+  {
+    "id": 2,
+    "url": "/cat2.jpeg",
+    "title": "Wonder",
+    "uploadDate": "2023. 01. 12.",
+    "phName": "Cat lover"
+  },
+  {
+    "id": 3,
+    "url": "/cat3.jpeg",
+    "title": "Sleep",
+    "uploadDate": "2023. 02. 12.",
+    "phName": "Cat lover"
+  }
+]
